@@ -1,0 +1,20 @@
+
+html {
+    background-color: transparent;
+    background-image: url("image/background.jpg");
+    background-repeat: no-repeat;
+    background-size: 1600px 900px;
+}
+table {
+    background-color: transparent;
+}
+hr {
+    border-color: black;
+    border-style: solid none none;
+    border-width: 5px;
+    height: 0px;
+    width: 100%;
+}
+img {
+    width: 180px; height: 180px;
+}
